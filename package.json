@@ -1,0 +1,41 @@
+{
+  "name": "nehru-institute",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-spring/parallax": "^9.0.0-rc.3",
+    "autoprefixer": "^10.0.4",
+    "body-parser": "^1.19.0",
+    "classnames": "^2.2.6",
+    "express": "^4.17.1",
+    "gray-matter": "^4.0.2",
+    "next": "^10.0.3",
+    "nodemailer": "^6.4.17",
+    "postcss": "^8.1.10",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-preset-env": "^6.7.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-slick": "^0.27.13",
+    "react-web-vector-icons": "^1.0.2",
+    "sass": "^1.29.0",
+    "slick-carousel": "^1.8.1",
+    "tailwindcss": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-nextjs": "^1.0.6",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.22.0",
+    "tailwindcss": "^2.0.1"
+  }
+}

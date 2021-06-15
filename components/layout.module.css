@@ -1,0 +1,73 @@
+.container {
+    min-height: 100vh;
+    background-color: #fff;
+
+}
+
+.colorLearnBlue {
+    color: #31428a;
+}
+
+.colorLearnGray {
+    color: #e4e8eb;
+}
+
+.learnGray {
+    background-color: #e4e8eb;
+}
+
+.learnBlue {
+    background-color: #31428a;
+}
+
+.upperHeader {
+    height: 3.0rem;
+    padding: 1.5rem;
+}
+
+.upperSpace {
+    height: 11.6rem;
+}
+
+.childContainer {
+    min-height: 7vh;
+}
+
+/*
+#e4e8eb
+#31428a
+*/
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headerImage {
+    width: 6rem;
+    height: 6rem;
+}
+
+.headerHomeImage {
+    width: 45rem;
+    height: 8rem;
+}
+
+.backToHome {
+    margin: 3rem 0 0;
+}
+
+@media screen and (max-width: 960px) {
+
+    .headerHomeImage {
+        width: 10rem;
+        height: 2rem;
+    }
+
+    .upperSpace {
+        height: 5.7rem;
+    }
+
+}
