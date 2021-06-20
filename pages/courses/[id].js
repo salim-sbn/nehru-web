@@ -26,7 +26,7 @@ export async function getStaticProps ({ params }) {
 }
 
 const Courses = ({ params }) => {
-  const info = params.id.toUpperCase().replaceAll('-',' ').replaceAll('_','.')
+  const info = (params.id.toUpperCase() || '-').split('-').join(' ').split('_').join(' ')
   return (
         <Layout>
             <Head>
