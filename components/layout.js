@@ -26,18 +26,18 @@ export default function Layout ({ children }) {
                         <meta name="description"
                               content="Nehru Institute of Information Technology provides admission in various courses"/>
                         <meta property="og:type" content="website"/>
-                        <meta property="og:url" content="https://learnizo-class.com/"/>
+                        <meta property="og:url" content="https://www.nioit.in/"/>
                         <meta property="og:title" content="Nehru Institute of Information Technology | An Education Point for you."/>
                         <meta property="og:description"
                               content="Nehru Institute of Information Technology provides admission in various courses."/>
                         <meta property="twitter:card" content="summary_large_image"/>
-                        <meta property="twitter:url" content="https://learnizo-class.com/"/>
+                        <meta property="twitter:url" content="https://www.nioit.in/"/>
                         <meta property="twitter:title" content="Nehru Institute of Information Technology | An Education Point for you."/>
                         <meta property="twitter:description"
                               content="Nehru Institute of Information Technology provides admission in various courses."/>
                         <link rel="apple-touch-icon" href="new.ico"/>
                         <link rel="manifest" href="manifest.json"/>
-                    <meta name="google-site-verification" content="9W7bgdpxM2mCUvG1wJFGGD4CAmkM6J1-lLOn1Q3iNEc"/>
+                    <meta name="google-site-verification" content="l_afa_OvHWXryc8rpQ4bSG6I6CkBmeSbkAZJi071cqA"/>
                     <meta
                         property="og:image"
                         content={`https://og-image.now.sh/${encodeURI(
