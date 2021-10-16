@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Head from 'next/head'
 import Layout from '../components/layout'
 import CoursesOffered from '../components/home/CoursesOffered'
+import { Notices } from '../components/home/Notices'
 import { ContactUsInner } from '../components/contactUsInner'
 import { Testimonials } from '../components/home/testimonials'
 import styles from '../components/layout.module.css'
@@ -74,6 +75,10 @@ export default function Home () {
                     <img key={item.imagePath} src={item.imagePath} alt={item.alt} className={'home-img'}/>
                 ))}
             </Slider>
+            </section>
+            <section>
+                <br/>
+                <Notices/>
             </section>
             <section>
                 <br/>
