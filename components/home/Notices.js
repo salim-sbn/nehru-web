@@ -7,7 +7,7 @@ export const Notices = () => {
     transition duration-500 ease-in-out 
     transform hover:-translate-y-1 hover:scale-105
     `} style={{ width: '90vw' }}>
-            <div className={'flex flex-col rounded-t card-classes px-4 p-2'}>
+            <div className={'flex flex-col rounded-t  px-4 p-2 bg-red-100'}>
                 <text
                     className={'text-2xl font-middle text-center text-white cursor-default hover:underline'}>Notices</text>
             </div>
