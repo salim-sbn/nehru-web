@@ -3,6 +3,8 @@ import Head from 'next/head'
 import Layout from '../components/layout'
 import CoursesOffered from '../components/home/CoursesOffered'
 import { Notices } from '../components/home/Notices'
+import { Results } from '../components/home/Result'
+
 import { ContactUsInner } from '../components/contactUsInner'
 import { Testimonials } from '../components/home/testimonials'
 import styles from '../components/layout.module.css'
@@ -78,7 +80,13 @@ export default function Home () {
             </section>
             <section>
                 <br/>
+               
                 <Notices/>
+            </section>
+            <section>
+                <br/>
+                {/* <h1>GGGG</h1> */}
+                <Results/>
             </section>
             <section>
                 <br/>

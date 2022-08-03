@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const headerLinks = [{\n  link: '/',\n  title: 'Home'\n}, {\n  link: '/about-us',\n  title: 'About Us'\n}, {\n  link: '/contact-us',\n  title: 'Contact Us'\n}];","map":null,"metadata":{},"sourceType":"module"}
