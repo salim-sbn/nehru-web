@@ -4,7 +4,7 @@ export const allNotices  = [
 //     {path:'notices/notice2.jpeg',title:'News Paper Advertisement'},
 //     {path:'notices/Datesheet.pdf',title:'Date Sheet'},
     {path:'notices/Readmission Voactional.pdf',title:'Readmission Vocational'},
-    {path:'notices/KRC Online Examination Form.pdf"',title:'KRC Online Examination Form '},
+    {path:'notices/krc_form.pdf"',title:' KRC Online Examination Form '},
     
     
 ]
