@@ -37,7 +37,7 @@ export const ContactUsInner = () => {
                         <ul className={'mx-4'}>
                             <li>
                                 <Ionicons name={'ios-call'} size={18} color={'#31428a'} />
-                                <text className={`${styles.colorLearnBlue}`}>{' '}079797 60083</text>
+                                <text className={`${styles.colorLearnBlue}`}>{' '} 7644057268</text>
                             </li>
                             
                         </ul>
