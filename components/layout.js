@@ -58,7 +58,7 @@ export default function Layout ({ children }) {
                                     className={'text-white transition duration-500 ease-in-out transform hover:scale-110'}>
                                     <Ionicons name={'ios-call'} color={'#fff'} size={20}/>
                                     {' '}
-                                    +91-79797 60083
+                                    +91-76440 57268
                                 </div>
                                 <div>
                                     {socialMediaDetails.map(Item => (
