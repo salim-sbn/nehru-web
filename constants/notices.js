@@ -5,6 +5,8 @@ export const allNotices  = [
 //     {path:'notices/Datesheet.pdf',title:'Date Sheet'},
     {path:'notices/Readmission Voactional.pdf',title:'Readmission Vocational'},
     {path:'notices/krc_form.pdf',title:' KRC Online Examination Form '},
+    {path:'notices/Exam_notice.pdf',title:' Part 2 & Part 3 Exam schedule '},
     
+        
     
 ]
