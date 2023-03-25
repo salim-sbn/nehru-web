@@ -4,7 +4,7 @@ export const allNotices  = [
 //     {path:'notices/notice2.jpeg',title:'News Paper Advertisement'},
 //     {path:'notices/Datesheet.pdf',title:'Date Sheet'},
     
-    {path:'notices//Registration notice nioit.pdf',title:' Registration notice 2021-22 enrolled students '},
+    {path:'notices/registration_notice.pdf',title:' Registration notice 2021-22 enrolled students '},
 
     {path:'notices/Exam_notice.pdf',title:' Part 2 & Part 3 Exam schedule '},
     {path:'notices/Readmission Voactional.pdf',title:'Readmission Vocational'},
